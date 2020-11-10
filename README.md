@@ -6,3 +6,6 @@
 
 ### 과제2 Draggable Component
 > React.js 기반으로 외부 라이브러리 없이 드래그 가능한 컴포넌트 만들기
+
+### 과제3 formatDuration
+> 초를 인자로 받아 년, 일, 분, 시, 초로 변환
